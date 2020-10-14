@@ -1,7 +1,10 @@
-[![](https://jitpack.io/v/davidHarush/Lifecyclelog.svg)](https://jitpack.io/#davidHarush/Lifecyclelog)
 
 
 # Lifecyclelog
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/davidHarush/Lifecyclelog)
+![GitHub top language](https://img.shields.io/github/languages/top/davidHarush/Lifecyclelog)
+![GitHub repo size](https://img.shields.io/github/repo-size/davidHarush/Lifecyclelog)
+![GitHub issues](https://img.shields.io/github/issues/davidHarush/Lifecyclelog)
 
 ### Lifecyclelog is a util to log LifecycleOwner events.<br>
 
@@ -17,6 +20,13 @@ dependencies {
     implementation 'com.github.davidHarush:Lifecyclelog:1.0'
 }
 ```
+
+for more info:
+<br/>
+[![](https://jitpack.io/v/davidHarush/Lifecyclelog.svg)](https://jitpack.io/#davidHarush/Lifecyclelog)
+<br/>
+<br/>
+
 
 ## How I use it.
 
